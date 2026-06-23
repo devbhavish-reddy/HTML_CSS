@@ -1,0 +1,97 @@
+.icon{
+  width: 200px;
+  
+
+}
+
+.google-icon{
+
+  width: 200px;
+  height: 200px;
+
+
+  object-fit: contain;
+
+}
+
+div{
+
+  text-align: center;
+}
+
+.icon{
+  margin-left: 550px;
+
+}
+
+.search-bar{
+
+  
+  border-radius: 20px;
+
+}
+
+
+.buttons{
+
+
+  margin-top: 20px;
+
+}
+
+.textbox{
+
+
+  padding-right: 100px;
+  background-color: none;
+  color:black;
+  border-radius: 30px;
+  border-style: solid;
+  width: 500px;
+  padding-bottom: 15px;
+  
+
+
+
+
+}
+
+.searchbox{
+
+  margin-top: 15px;
+}
+
+input{
+
+  padding-left: 10px;
+
+
+  padding-top: 10px;
+  font-size: 20px;
+
+
+
+}
+
+.button-google{
+
+
+  border-radius: 30px;
+  margin-right: 20px;
+
+
+}
+
+.lucky{
+
+  margin-left: 20px;
+
+  border-radius: 20px;
+  border-style:groove;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  
+
+
+
+}

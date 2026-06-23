@@ -1,0 +1,37 @@
+.profile-pic{
+
+ 
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.tweetbar{
+
+
+  border-style: none;
+  background-color: white;
+  color: black;
+  margin: 2px;
+
+
+}
+
+button{
+
+  background-color:  #007AFF;
+  border-radius: 50px;
+  border-style: none;
+  padding: 5px;
+  
+  color: whitesmoke;
+  padding-right: 10px;
+  padding-left: 10px;
+
+
+}
+
+
+
